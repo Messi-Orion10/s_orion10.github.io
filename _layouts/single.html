@@ -43,6 +43,17 @@ layout: default
               {% if page.period %}&nbsp;&nbsp;<strong>Period:</strong> {{ page.period }}{% endif %}
             </p>
           {% endif %}
+
+          {% if page.paper or page.video %}
+            <div class="project__resources">
+              {% if page.paper %}
+                <p>📄 <a href="{{ page.paper }}" target="_blank">View associated paper</a></p>
+              {% endif %}
+              {% if page.video %}
+                <p>🎥 <a href="{{ page.video }}" target="_blank">Watch project video</a></p>
+              {% endif %}
+            </div>
+          {% endif %}
           
         </header>
       {% endunless %}
