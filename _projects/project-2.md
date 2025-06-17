@@ -2,7 +2,7 @@
 title: "Ingenuity"
 collection: projects
 subject: "Control Problems in Robotics - UAVs - Model Based"
-permalink: /projects/project-1
+permalink: /projects/project-3
 venue: "University 'La Sapienza' of Rome"
 period: "Winter - Spring 2023/2024"
 paper: "https://messi-orion10.github.io/s_orion10.github.io/files/ingenuity.pdf"
