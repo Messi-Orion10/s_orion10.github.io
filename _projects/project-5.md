@@ -2,7 +2,7 @@
 title: "Control of underactuated robots via input-constrained receding-horizon differential dynamic programming"
 collection: projects
 subject: "Control Problems in Robotics - Differential Dynamic Programming - Optimization Control"
-permalink: /projects/project-1
+permalink: /projects/project-2
 venue: "University 'La Sapienza' of Rome"
 period: "Winter - Spring 2023/2024"
 paper: "https://github.com/Messi-Orion10/s_orion10.github.io/blob/master/files/ddp.pdf"
