@@ -1,7 +1,7 @@
 ---
-title: "Ingenuity"
+title: "Control of underactuated robots via input-constrained receding-horizon differential dynamic programming"
 collection: projects
-subject: "Control Problems in Robotics - UAVs - Model Based"
+subject: "Control Problems in Robotics - Differential Dynamic Programming - Optimization Control"
 permalink: /projects/project-1
 venue: "University 'La Sapienza' of Rome"
 period: "Winter - Spring 2023/2024"
