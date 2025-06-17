@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+[📄 View CV online](../files/curriculum.pdf){:target="_blank"}  
+[⬇️ Download CV](../files/curriculum.pdf){:download="curriculum.pdf"}
+
+
 {% include base_path %}
 
 Education
