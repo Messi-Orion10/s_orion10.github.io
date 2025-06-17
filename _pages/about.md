@@ -16,7 +16,7 @@ Curiosity drives me: I love tackling complex problems that sit at the intersecti
 
 ## Professional snapshot
 
-- **Core expertise:** nonlinear & geometric control, state estimation, robotics, embedded C/C++, Python, ROS 2, MATLAB/Simulink  
+- **Core expertise:** nonlinear & geometric control, state estimation, robotics, embedded C/C++, Python, MATLAB/Simulink  
 - **Recent projects:**  
   - *VTOL tricopter*: geometric tracking controller and transition management (Sapienza Flight Team)  
   - *Ingenuity-style Mars helicopter*: high-fidelity Simulink model of NASA’s **Ingenuity** for Martian-atmosphere flight-dynamics analysis  
