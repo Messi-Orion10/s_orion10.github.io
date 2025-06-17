@@ -36,13 +36,14 @@ layout: default
               {% if page.period %}&nbsp;&nbsp;<strong>Period:</strong> {{ page.period }}{% endif %}
             </p>
           {% endif %}
+
+          {% if page.venue or page.location %}
+            <p><i>{{ page.venue }}</i>{% if page.location %}, {{ page.location }}{% endif %}</p>
+          {% endif %}
         </header>
       {% endunless %}
 
-      {% if page.venue or page.location %}
-        <p><i>{{ page.venue }}</i>{% if page.location %}, {{ page.location }}{% endif %}</p>
-      {% endif %}
-
+      
       <section class="page__content" itemprop="text">
         {{ content }}
 
