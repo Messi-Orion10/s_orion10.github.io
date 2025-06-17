@@ -44,7 +44,7 @@ Outside of the lab and code editor you’ll likely catch me:
 - ♟ **Analyzing chess puzzles** – trying to improve my rapid rating on chess.com
 - 🪐 **Exploring astrophysics** – satisfying my curiosity with popular-science books and following the latest discoveries on social media  
 - 🌐 **Staying social** – actively sharing projects and insights on LinkedIn, GitHub, and tech communities, always eager to connect and exchange ideas
-- 
+
 These hobbies keep me balanced, sharpen strategic thinking, and fuel creativity.
 
 ---
