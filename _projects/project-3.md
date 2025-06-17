@@ -2,7 +2,7 @@
 title: "Decentralized control of the charging process of a fleet of electric vehicles"
 collection: projects
 subject: "MPC - Energy System - Decentralized Control"
-permalink: /projects/project-1
+permalink: /projects/project-3
 venue: "University 'La Sapienza' of Rome"
 period: "2023/2024"
 paper: 
