@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Control Engineering, GiUniversity 'La Sapienza' of Rome, 2025
+* B.S. in Information Engineering, Informatics and Statistics, University 'La Sapienza' of Rome, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024/2025: Autopilot Control Systems Engineer
+  * Partner of 'Sapienza Aerospace Student Association - SASA' for the project 'Sapienza Flight Team - SFT'.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Tutoring Activity
+  * Tutor for the course of Fondamenti di Automatica I in University 'La Sapienza' of Rome, Latina
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021/2022: Universal Civil Service
+  * Volunteer Operator in Municipality of Sezze (LT)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Sftware and tools: Microsoft Office, Simulink, Stateflow, Blender, CISCO packet tracer
+Programming languages: Arduino, Assembly, C, C++, Java, MATLAB, Python (Keras), Visual Basic
+Web languages: CSS, JavaScript, LaTeX, PHP, XHTML, XML
+Databases: E/R scheme, MariaDB, Microsoft SQL, MySQL
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
