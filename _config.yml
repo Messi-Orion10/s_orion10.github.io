@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile_ph.jpg"
   name             : "Simone Orelli"
-  pronouns         : "he/him"  
-  bio              : "Since 1997. Compputer Science Engineer. Control System Engineer. DIAG Sapienza University of Rome. 'Where is everyone?'"
+  pronouns         : #"he/him"  
+  bio              : "Since 1997. Computer Science Engineer. Control System Engineer. DIAG Sapienza University of Rome. 'Where is everyone?'"
   location         : "Rome, Italy"
   employer         : "Università 'Sapienza' of Rome"
   uri              : # URL
