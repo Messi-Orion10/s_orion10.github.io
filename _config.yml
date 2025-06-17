@@ -292,7 +292,7 @@ defaults:
       path: ""
       type: work_experiences
     values:
-      layout: work_experiences
+      layout: single
       author_profile: true
       share: true
       comments: true
