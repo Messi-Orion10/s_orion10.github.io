@@ -2,7 +2,7 @@
 title: "Autopilot Control Systems Engineer"
 collection: work_experiences
 type: "Engineering"
-permalink: /work_experiences/2024-work_experience-2
+permalink: /work_experiences/2024-work_experience-3
 venue: "Sapienza Aerospace Student Association – Sapienza Flight Team"
 period: "September 2024 - May 2025"
 location: "Rome (RM)"
