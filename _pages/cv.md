@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-[📄 View CV online](https://Messi-Orion10/s_orion10.github.io/files/curriculum.pdf){:target="_blank"}  
-[⬇️ Download CV](https://Messi-Orion10/s_orion10.github.io/files/curriculum.pdf){:download="cv_Simone_Orelli.pdf"}
+[📄 View CV online](https://messi-orion10.github.io/s_orion10.github.io/files/curriculum.pdf){:target="_blank"}  
+[⬇️ Download CV](https://messi-Orion10/s_orion10.github.io/files/curriculum.pdf){:download="cv_Simone_Orelli.pdf"}
 
 
 {% include base_path %}
 
 Education
 ======
-* M.S. in Control Engineering, GiUniversity 'La Sapienza' of Rome, 2025
+* M.S. in Control Engineering, University 'La Sapienza' of Rome, 2025
 * B.S. in Information Engineering, Informatics and Statistics, University 'La Sapienza' of Rome, 2021
 
 Work experience
