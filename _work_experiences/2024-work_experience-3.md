@@ -8,7 +8,7 @@ period: "September 2024 - May 2025"
 location: "Rome (RM)"
 ---
 
-Partner of the Sapienza Aerospace Student Association (**SASA**) for the project **Sapienza Flight Team (SFT)** ([website](https://www.sasa-aerospace.it/flight-team/)).
+Partner of the Sapienza Aerospace Student Association (**SASA**) for the project [**Sapienza Flight Team (SFT)**](https://www.sasa-aerospace.it/flight-team/).
 
 - Designed a geometric tracking controller for autonomous vertical flight of a VTOL tricopter  
 - Developed stabilization strategies and managed flight-phase transitions (hover ↔ forward flight)  
