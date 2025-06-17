@@ -5,8 +5,8 @@ subject: "Digital Control System - Arduino"
 permalink: /projects/project-2
 venue: "University 'La Sapienza' of Rome"
 period: "Autumn - Winter 2023"
-code: "[https://messi-orion10.github.io/s_orion10.github.io/files/digital.pdf](https://github.com/Messi-Orion10/self-balancing-robot/tree/main)"
-video: ""
+code: "https://github.com/Messi-Orion10/self-balancing-robot/tree/main"
+video: "https://github.com/Messi-Orion10/s_orion10.github.io/blob/master/files/demo_robust.mp4"
 ---
 
 ACC on a self-balancing wheeled robot (GRANDLAND)
