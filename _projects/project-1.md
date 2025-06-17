@@ -5,7 +5,7 @@ subject: "Digital Control System - Arduino"
 permalink: /projects/project-3
 venue: "University 'La Sapienza' of Rome"
 period: "Autumn - Winter 2023"
-code: "https://messi-orion10.github.io/s_orion10.github.io/files/self_balancing.pdf"
+paper: "https://messi-orion10.github.io/s_orion10.github.io/files/self_balancing.pdf"
 video: "https://messi-orion10.github.io/s_orion10.github.io/files/demo.mp4"
 ---
 
