@@ -6,6 +6,8 @@ permalink: /projects/project-1
 venue: "Municipality of Sezze"
 period: "September 2021 - September 2022"
 location: "Sezze (LT)"
+paper: "/files/main.pdf"
+video: ""
 ---
 Volunteer of the National Civil Service engaged in the social-services sector for the project **Help adults and elderly people in difficult conditions**.
 
