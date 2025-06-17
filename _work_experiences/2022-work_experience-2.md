@@ -1,8 +1,8 @@
 ---
 title: "Tutoring Activity"
-collection: work\_experiences
+collection: work_experiences
 type: "Tutoring"
-permalink: /work\_experiences/2021-work\_experience-1
+permalink: /work_experiences/2021-work_experience-2
 venue: "Sapienza University of Rome – Latina Campus"
 period: "October 2022 - January 2023"
 location: "Latina (LT)"
