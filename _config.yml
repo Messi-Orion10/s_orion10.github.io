@@ -58,9 +58,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : s_orion10.app # Username
+  instagram        : s_orion10 # Username
   lastfm           : # Username
-  linkedin         : simone-orelli-a5b9a1144.app # Username
+  linkedin         : simone-orelli-a5b9a1144 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -73,7 +73,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : simoneorelli4296.app # Username
+  youtube          : simoneorelli4296 # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
