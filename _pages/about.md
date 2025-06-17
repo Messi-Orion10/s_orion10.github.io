@@ -19,8 +19,9 @@ Curiosity drives me: I love tackling complex problems that sit at the intersecti
 - **Core expertise:** nonlinear & geometric control, state estimation, robotics, embedded C/C++, Python, ROS 2, MATLAB/Simulink  
 - **Recent projects:**  
   - *VTOL tricopter*: geometric tracking controller and transition management (Sapienza Flight Team)  
-  - *Autonomous rover*: LQR-based path tracking and SLAM integration  
-  - *Spacecraft attitude demo*: quaternion-based control with reaction wheels, tested in Hardware-in-the-Loop  
+  - *Ingenuity-style Mars helicopter*: high-fidelity Simulink model of NASA’s **Ingenuity** for Martian-atmosphere flight-dynamics analysis  
+  - *Car Racing AI*: end-to-end CNN policy for OpenAI Car Racing—data collection, network training, deployment  
+  - *Under-actuated robot via DDP*: differential dynamic programming on pendubot & acrobot with hard torque limits  
 - **Toolbox I reach for:** Git & GitHub Actions, CI/CD, Docker, Linux RT, LaTeX
 
 ---
