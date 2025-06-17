@@ -46,18 +46,20 @@ layout: default
 
           {% if page.paper or page.video or page.code %}
             <div class="project__resources">
-                {% if page.paper %}
-                  {% if page.paper contains 'http' %}
-                    <p>📄 <a href="{{ page.paper }}" target="_blank">View associated paper</a></p>
-                  {% else %}
-                    {% for p in page.paper %}
-                      <p>📄 <a href="{{ p }}" target="_blank">View associated paper {{ forloop.index }}</a></p>
-                    {% endfor %}
-                  {% endif %}
+              {% if page.paper %}
+                {% if page.paper.size > 1 %}
+                  {% for p in page.paper %}
+                    <p>📄 <a href="{{ p }}" target="_blank">View associated paper {{ forloop.index }}</a></p>
+                  {% endfor %}
+                {% else %}
+                  <p>📄 <a href="{{ page.paper[0] }}" target="_blank">View associated paper</a></p>
                 {% endif %}
+              {% endif %}
+              
               {% if page.video %}
                 <p>🎥 <a href="{{ page.video }}" target="_blank">Watch project video</a></p>
               {% endif %}
+              
               {% if page.code %}
                 <p>💻 <a href="{{ page.code }}" target="_blank">View source code</a></p>
               {% endif %}              
