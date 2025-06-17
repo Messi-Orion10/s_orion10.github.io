@@ -27,8 +27,8 @@ Work experience
   
 Skills
 ======
-Sftware and tools: Microsoft Office, Simulink, Stateflow, Blender, CISCO packet tracer
-Programming languages: Arduino, Assembly, C, C++, Java, MATLAB, Python (Keras), Visual Basic
-Web languages: CSS, JavaScript, LaTeX, PHP, XHTML, XML
-Databases: E/R scheme, MariaDB, Microsoft SQL, MySQL
+* Sftware and tools: Microsoft Office, Simulink, Stateflow, Blender, CISCO packet tracer
+* Programming languages: Arduino, Assembly, C, C++, Java, MATLAB, Python (Keras), Visual Basic
+* Web languages: CSS, JavaScript, LaTeX, PHP, XHTML, XML
+* Databases: E/R scheme, MariaDB, Microsoft SQL, MySQL
   
