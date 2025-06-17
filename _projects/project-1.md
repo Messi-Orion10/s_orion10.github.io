@@ -16,6 +16,4 @@ Once the physics were nailed down, we designed and compared two radically differ
 * **Static feedback-linearisation**—an elegant input-output decoupling scheme that flattened the nonlinear dynamics but struggled to stay robust under martian gusts and actuator saturation.
 * **Nonlinear backstepping**—a recursive Lyapunov-based strategy that embraced Ingenuity’s under-actuated nature, chaining stabilising virtual controls all the way from attitude to position.
 
-In rigorous Monte-Carlo campaigns—1,000 randomised wind and mass-property cases—**backstepping out-performed feedback-linearisation by 42 % in RMS tracking error and never violated control limits**.  The final controller executed aggressive climb-turn-descent profiles with under-2 cm lateral deviation, proving that even in a tenuous atmosphere a well-tuned nonlinear law can “thread the needle.”
-
-Beyond simulation, I packaged the model into a hardware-in-the-loop (HIL) bench using a Raspberry Pi Pico running MicroPython, enabling rapid prototyping for future flight code.  The project not only sharpened my nonlinear control chops but also refined my teamwork and version-controlled Simulink workflows—skills I now apply to every aerospace challenge I tackle.
+Among the two, only the latter returns satisfactory results, as it is able to achieve the objectives by exploiting the fact that Ingenuity is an underactuated robot.
