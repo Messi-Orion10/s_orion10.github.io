@@ -37,9 +37,12 @@ layout: default
             </p>
           {% endif %}
 
-          {% if page.venue or page.location %}
-            <p><i>{{ page.venue }}</i>{% if page.location %}, {{ page.location }}{% endif %}</p>
+          {% if page.venue and page.period %}
+            <p><i>{{ page.venue }}</i>, {{ page.period }}</p>
+          {% elsif page.period %}
+            <p><strong>Period:</strong> {{ page.period }}</p>
           {% endif %}
+          
         </header>
       {% endunless %}
 
