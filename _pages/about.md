@@ -52,6 +52,6 @@ These hobbies keep me balanced, sharpen strategic thinking, and fuel creativity.
 ## Let’s connect
 
 I’m always open to new collaborations, research projects, or just a friendly chat about control theory, robotics, or the latest chess opening.  
-Feel free to reach out via [email](mailto:simoneorelli@icloud.com) or connect on [LinkedIn](www.linkedin.com/in/simone-orelli-a5b9a1144).
+Feel free to reach out via [email](mailto:simoneorelli@icloud.com) or connect on [LinkedIn](https://www.linkedin.com/in/simone-orelli-a5b9a1144).
 
 *Thanks for stopping by!*  
