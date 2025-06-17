@@ -44,7 +44,7 @@ layout: default
             </p>
           {% endif %}
 
-          {% if page.paper or page.video %}
+          {% if page.paper or page.video or page.code %}
             <div class="project__resources">
               {% if page.paper %}
                 <p>📄 <a href="{{ page.paper }}" target="_blank">View associated paper</a></p>
@@ -52,8 +52,13 @@ layout: default
               {% if page.video %}
                 <p>🎥 <a href="{{ page.video }}" target="_blank">Watch project video</a></p>
               {% endif %}
+              {% if page.code %}
+                <p>💻 <a href="{{ page.code }}" target="_blank">View source code</a></p>
+              {% endif %}              
+              
             </div>
           {% endif %}
+          
           
         </header>
       {% endunless %}
