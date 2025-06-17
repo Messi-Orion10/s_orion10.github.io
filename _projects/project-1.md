@@ -2,7 +2,7 @@
 title: "Self-balancing robot on two wheels"
 collection: projects
 subject: "Digital Control System - Arduino"
-permalink: /projects/project-2
+permalink: /projects/project-3
 venue: "University 'La Sapienza' of Rome"
 period: "Autumn - Winter 2023"
 code: "https://github.com/Messi-Orion10/self-balancing-robot/tree/main"
