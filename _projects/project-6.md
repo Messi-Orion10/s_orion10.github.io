@@ -5,7 +5,7 @@ subject: "Advanced Methods in Control - UAVs - Geometric Tracking Contorller - L
 permalink: /projects/project-1
 venue: "University 'La Sapienza' of Rome"
 period: "2024/2025"
-code: ""
+paper: ""
 video: ""
 ---
 
