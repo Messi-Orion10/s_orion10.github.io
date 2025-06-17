@@ -2,7 +2,7 @@
 title: "Control of a video-game race car using a convolutional neural network"
 collection: projects
 subject: "Machine Learning - Python (Keras) - CNN"
-permalink: /projects/project-5
+permalink: /projects/project-6
 venue: "University 'La Sapienza' of Rome"
 period: "Winter 20234"
 paper: "https://github.com/Messi-Orion10/s_orion10.github.io/blob/master/files/HW2_ORELLI.pdf"
