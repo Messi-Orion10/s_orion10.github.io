@@ -13,7 +13,7 @@ title                    : "Simone Orelli"
 title_separator          : "-"
 name                     : &name "Simone Orelli"
 description              : &description "I am a 27-year-old Control Systems Engineer with a deep background in control theory, robotics, computer science, and software development. I am passionate about mathematics, physics, astrophysics, artificial intelligence, and all fields related to engineering. My experience spans both hardware and software projects, reflecting my curiosity and drive to continuously learn new things. Outside of engineering, I enjoy playing guitar, sports, and chess."
-url                      : "https://messi-orion10.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://messi-orion10.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Messi-Orion10/s_orion10.github.io"
 
