@@ -14,8 +14,8 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "About me"
-    url: /about_me/    
+  - title: "CV"
+    url: /cv/    
     
   #- title: "Portfolio"
   #   url: /portfolio/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
