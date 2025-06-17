@@ -230,6 +230,9 @@ collections:
   work_experiences:
     output: true
     permalink: /:collectib/:path/
+  projects:
+    output: true
+    permalink: /:collectib/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -291,6 +294,13 @@ defaults:
   - scope:
       path: ""
       type: work_experiences
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
