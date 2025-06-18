@@ -9,6 +9,7 @@ paper: ""
 video: ""
 ---
 
+**Coming Soon :)**
 My thesis develops and rigorously analyses a **geometric control law for a broad family of multi-rotor aerial vehicles** equipped 
 with at least 4 propellers arbitrarily placed about the centre of mass and allowed to tilt by two angles.  
 These platforms are **fully actuated in orientation** and possess at least one direction along which it is possible to independently 
